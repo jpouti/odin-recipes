@@ -1,4 +1,4 @@
-/* adding a background color for the page*/
+/* first styles for the main page "index.html" */
 
 body {
     background-color: seashell;
@@ -37,4 +37,6 @@ a {
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
 }
+
+
 
