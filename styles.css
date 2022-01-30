@@ -1,0 +1,40 @@
+/* adding a background color for the page*/
+
+body {
+    background-color: seashell;
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    color: royalblue;
+    background-color: lightgray;
+    font-weight: bold;
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+.links {
+    color: red;
+    background-color:antiquewhite;
+    font-size: 24px;
+    padding: 10px;
+    margin-top: 10px;
+
+}
+
+/* sets the marker as a star character */
+
+ul {
+    list-style-type: "*";
+}
+
+a {
+    color: royalblue;
+    text-decoration: none;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
